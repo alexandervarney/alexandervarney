@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey, I'm Alexander 👋
 
-<!--
-**alexandervarney/alexandervarney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software designer and product builder creating delightful user experiences.
 
-Here are some ideas to get you started:
+## Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Senior UX/UI Designer at [WeDoBooks](https://wedobooks.io/)
+
+## Past
+
+- Senior Product Designer at [Schibsted Marketplaces](https://schibsted.com) (DBA.dk, Finn.no, Tori.fi, Blocket.se)
+- Senior Product Designer at [Undo](http://web.archive.org/web/20230130183213/https://www.undo.app)
+- Senior Product Designer and Frontend Developer at [GoMore](https://gomore.dk)
+- Designer at [Founders](https://www.founders.as)
+
+## Portfolio
+
+👉 [https://alexandervarney.com](https://alexandervarney.com)
