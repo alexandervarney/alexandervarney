@@ -35,13 +35,13 @@
 - usejiffy.com: NS switched 2026-09-28, zone ACTIVE, all 6 records served from Cloudflare (SOA hans.ns.cloudflare.com).
 - alexandervarney.com, getdroma.com: NS switched, ACTIVE. cathrine.co, madplan.xyz, panka.studio: switched, pending.
 - cathrine.co ACTIVE; test email to cathrine.co confirmed delivered (Gmail) by Alexander.
-- panka.studio ACTIVE 2026-09-28 11:08 UTC. madplan.xyz still pending (background poll).
+- panka.studio ACTIVE 2026-09-28 11:08 UTC. madplan.xyz ACTIVE 11:24 UTC. ALL SIX ACTIVE; Phase 3 complete.
 - Namecheap Redirect Email has NO rules on any domain: Email Routing not needed.
   eforward MX/SPF records are inert; optional cleanup later.
 - usejiffy.com confirmed loading in browser by Alexander.
   Sandbox proxy blocks curl to the sites; Alexander checks them in a browser.
 
-## Next (Phase 3)
-- Alexander switches nameservers in Namecheap; poll zone status via API.
+## Next (Phase 4, deferred by Alexander)
+- Namecheap auto-renew left ON as fallback; cathrine.co auto-renews 2026-11-19 if not transferred.
 - Phase 4 transfers: start with the three .com (all Active) before 2026-11-01; cathrine.co early (expires 2026-11-19).
   Auth codes go to alexandervarney@gmail.com.
