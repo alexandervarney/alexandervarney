@@ -13,6 +13,7 @@ getdroma.com.  IN MX 20 eforward5.registrar-servers.com.
 getdroma.com.  IN TXT "v=spf1 include:spf.efwd.registrar-servers.com ~all"
 
 ## Subdomains
+updates.getdroma.com.  IN CNAME 6949701570afb506.vercel-dns-017.com.   # from screenshot (TTL 1 min)
 
 ## Wildcard probe
 # no wildcard
