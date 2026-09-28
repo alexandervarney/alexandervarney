@@ -1,0 +1,8 @@
+panka.studio.  IN A 76.76.21.21
+panka.studio.  IN MX 10 eforward1.registrar-servers.com.
+panka.studio.  IN MX 10 eforward2.registrar-servers.com.
+panka.studio.  IN MX 10 eforward3.registrar-servers.com.
+panka.studio.  IN MX 15 eforward4.registrar-servers.com.
+panka.studio.  IN MX 20 eforward5.registrar-servers.com.
+panka.studio.  IN TXT "v=spf1 include:spf.efwd.registrar-servers.com ~all"
+www.panka.studio.  IN CNAME cname.vercel-dns.com.

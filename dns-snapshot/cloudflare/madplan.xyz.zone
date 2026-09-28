@@ -1,0 +1,8 @@
+madplan.xyz.  IN A 216.198.79.1
+madplan.xyz.  IN MX 10 eforward1.registrar-servers.com.
+madplan.xyz.  IN MX 10 eforward2.registrar-servers.com.
+madplan.xyz.  IN MX 10 eforward3.registrar-servers.com.
+madplan.xyz.  IN MX 15 eforward4.registrar-servers.com.
+madplan.xyz.  IN MX 20 eforward5.registrar-servers.com.
+madplan.xyz.  IN TXT "v=spf1 include:spf.efwd.registrar-servers.com ~all"
+www.madplan.xyz.  IN CNAME d7a84b63c714d495.vercel-dns-017.com.

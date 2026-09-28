@@ -1,0 +1,7 @@
+cathrine.co.  IN A 76.76.21.21
+cathrine.co.  IN MX 1 aspmx.l.google.com.
+cathrine.co.  IN MX 10 aspmx2.googlemail.com.
+cathrine.co.  IN MX 10 aspmx3.googlemail.com.
+cathrine.co.  IN MX 5 alt1.aspmx.l.google.com.
+cathrine.co.  IN MX 5 alt2.aspmx.l.google.com.
+www.cathrine.co.  IN CNAME cname.vercel-dns.com.

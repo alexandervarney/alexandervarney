@@ -1,0 +1,6 @@
+_dmarc.usejiffy.com.  IN TXT "v=DMARC1; p=none; rua=mailto:dmarc@usejiffy.com"
+resend._domainkey.usejiffy.com.  IN TXT "p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDoGfN75NnnAyUt5bj0G7oZQD67qqZ84i9TsezyUKsba/3GzultlzAxarrxtKgd9AfMQdXyLjB8KYmK7DWpSZbFAOdk/z3WGDCLML1d4SHcGEEijUjVbT2uNQXLf1fnZF9mik4CThUv3Ce2ealnHdrDUTmhQDAO2cJEjBRs6MTnEwIDAQAB"
+send.usejiffy.com.  IN MX 10 feedback-smtp.eu-west-1.amazonses.com.
+send.usejiffy.com.  IN TXT "v=spf1 include:amazonses.com ~all"
+usejiffy.com.  IN A 216.198.79.1
+www.usejiffy.com.  IN CNAME d9ee213de59cbce8.vercel-dns-017.com.

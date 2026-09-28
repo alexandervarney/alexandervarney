@@ -1,0 +1,8 @@
+alexandervarney.com.  IN A 216.198.79.1
+alexandervarney.com.  IN MX 10 eforward1.registrar-servers.com.
+alexandervarney.com.  IN MX 10 eforward2.registrar-servers.com.
+alexandervarney.com.  IN MX 10 eforward3.registrar-servers.com.
+alexandervarney.com.  IN MX 15 eforward4.registrar-servers.com.
+alexandervarney.com.  IN MX 20 eforward5.registrar-servers.com.
+alexandervarney.com.  IN TXT "v=spf1 include:spf.efwd.registrar-servers.com ~all"
+www.alexandervarney.com.  IN CNAME 163c527b91089137.vercel-dns-017.com.

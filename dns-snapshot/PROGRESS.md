@@ -21,3 +21,16 @@
 - Create six zones (Free), reconcile auto-scan against snapshots, all records DNS-only,
   verify via Cloudflare NS, record assigned nameservers.
 - Do not touch feels.design.
+
+## Done (Phase 2, 2026-09-28)
+- Six zones created (Free), account f036279fc9576200de563a75f954463a. Status: pending.
+- Nameservers (all six): hans.ns.cloudflare.com, lia.ns.cloudflare.com
+- Auto-scan found nothing; all 44 records added by API from the verified snapshot,
+  all DNS-only. Exports in cloudflare/*.zone match snapshots exactly.
+- Verified via API export, not dig: sandbox answers every query from public DNS
+  regardless of @server, so Cloudflare NS can't be queried directly here.
+- Token expires 2026-10-31.
+
+## Next (Phase 3)
+- Alexander switches nameservers in Namecheap; poll zone status via API.
+- After each forwarding domain goes Active: Alexander sets up Cloudflare Email Routing.

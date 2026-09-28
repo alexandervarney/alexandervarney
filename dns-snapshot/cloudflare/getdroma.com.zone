@@ -1,0 +1,7 @@
+getdroma.com.  IN MX 10 eforward1.registrar-servers.com.
+getdroma.com.  IN MX 10 eforward2.registrar-servers.com.
+getdroma.com.  IN MX 10 eforward3.registrar-servers.com.
+getdroma.com.  IN MX 15 eforward4.registrar-servers.com.
+getdroma.com.  IN MX 20 eforward5.registrar-servers.com.
+getdroma.com.  IN TXT "v=spf1 include:spf.efwd.registrar-servers.com ~all"
+updates.getdroma.com.  IN CNAME 6949701570afb506.vercel-dns-017.com.
