@@ -1,0 +1,22 @@
+# DNS snapshot for alexandervarney.com  (taken 2026-09-28T10:07:53Z)
+# CAVEAT: sandbox forces DNS through a caching resolver; this is NOT a direct
+# authoritative read. TTL column omitted. Verify against Namecheap Advanced DNS.
+# NS (delegation): dns1.registrar-servers.com. dns2.registrar-servers.com. 
+# DS (DNSSEC):     
+
+## Apex
+alexandervarney.com.  IN A 216.198.79.1
+alexandervarney.com.  IN MX 10 eforward1.registrar-servers.com.
+alexandervarney.com.  IN MX 10 eforward2.registrar-servers.com.
+alexandervarney.com.  IN MX 10 eforward3.registrar-servers.com.
+alexandervarney.com.  IN MX 15 eforward4.registrar-servers.com.
+alexandervarney.com.  IN MX 20 eforward5.registrar-servers.com.
+alexandervarney.com.  IN TXT "v=spf1 include:spf.efwd.registrar-servers.com ~all"
+
+## Subdomains
+www.alexandervarney.com.  IN CNAME 163c527b91089137.vercel-dns-017.com.
+163c527b91089137.vercel-dns-017.com.  IN A 216.198.79.65
+163c527b91089137.vercel-dns-017.com.  IN A 64.29.17.65
+
+## Wildcard probe
+# no wildcard

@@ -1,0 +1,21 @@
+# DNS snapshot for cathrine.co  (taken 2026-09-28T10:08:00Z)
+# CAVEAT: sandbox forces DNS through a caching resolver; this is NOT a direct
+# authoritative read. TTL column omitted. Verify against Namecheap Advanced DNS.
+# NS (delegation): dns1.registrar-servers.com. dns2.registrar-servers.com. 
+# DS (DNSSEC):     
+
+## Apex
+cathrine.co.  IN A 76.76.21.21
+cathrine.co.  IN MX 1 aspmx.l.google.com.
+cathrine.co.  IN MX 10 aspmx2.googlemail.com.
+cathrine.co.  IN MX 10 aspmx3.googlemail.com.
+cathrine.co.  IN MX 5 alt1.aspmx.l.google.com.
+cathrine.co.  IN MX 5 alt2.aspmx.l.google.com.
+
+## Subdomains
+www.cathrine.co.  IN CNAME cname.vercel-dns.com.
+cname.vercel-dns.com.  IN A 76.76.21.142
+cname.vercel-dns.com.  IN A 66.33.60.66
+
+## Wildcard probe
+# no wildcard

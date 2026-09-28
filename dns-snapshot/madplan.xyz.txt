@@ -1,0 +1,22 @@
+# DNS snapshot for madplan.xyz  (taken 2026-09-28T10:08:16Z)
+# CAVEAT: sandbox forces DNS through a caching resolver; this is NOT a direct
+# authoritative read. TTL column omitted. Verify against Namecheap Advanced DNS.
+# NS (delegation): dns1.registrar-servers.com. dns2.registrar-servers.com. 
+# DS (DNSSEC):     
+
+## Apex
+madplan.xyz.  IN A 216.198.79.1
+madplan.xyz.  IN MX 10 eforward1.registrar-servers.com.
+madplan.xyz.  IN MX 10 eforward2.registrar-servers.com.
+madplan.xyz.  IN MX 10 eforward3.registrar-servers.com.
+madplan.xyz.  IN MX 15 eforward4.registrar-servers.com.
+madplan.xyz.  IN MX 20 eforward5.registrar-servers.com.
+madplan.xyz.  IN TXT "v=spf1 include:spf.efwd.registrar-servers.com ~all"
+
+## Subdomains
+www.madplan.xyz.  IN CNAME d7a84b63c714d495.vercel-dns-017.com.
+d7a84b63c714d495.vercel-dns-017.com.  IN A 64.29.17.65
+d7a84b63c714d495.vercel-dns-017.com.  IN A 216.198.79.65
+
+## Wildcard probe
+# no wildcard
