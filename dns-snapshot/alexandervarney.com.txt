@@ -1,6 +1,8 @@
 # DNS snapshot for alexandervarney.com  (taken 2026-09-28T10:07:53Z)
 # CAVEAT: sandbox forces DNS through a caching resolver; this is NOT a direct
 # authoritative read. TTL column omitted. Verify against Namecheap Advanced DNS.
+# VERIFIED against Namecheap Advanced DNS screenshot (2026-09-28). Mail MX/SPF come
+# from Namecheap Mail Settings, which is not shown in the Host Records table.
 # NS (delegation): dns1.registrar-servers.com. dns2.registrar-servers.com. 
 # DS (DNSSEC):     
 
