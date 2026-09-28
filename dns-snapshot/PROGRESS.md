@@ -14,8 +14,10 @@
 
 ## Next (Phase 2)
 - Cloudflare account exists; no zones yet.
-- API token in env var `CLOUDFLARE_API_TOKEN` (Zone:Zone:Edit, Zone:DNS:Edit,
-  Account Settings:Read, all zones in account).
+- API token stored as an environment credential (Zone:Zone:Edit, Zone:DNS:Edit,
+  Account Settings:Read, all zones in account). The proxy injects
+  `Authorization: Bearer …` on requests to api.cloudflare.com, so call the API
+  without an auth header; there is no env var to read. Test: GET /client/v4/user/tokens/verify.
 - Create six zones (Free), reconcile auto-scan against snapshots, all records DNS-only,
   verify via Cloudflare NS, record assigned nameservers.
 - Do not touch feels.design.
