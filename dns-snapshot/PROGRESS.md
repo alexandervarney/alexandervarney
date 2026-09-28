@@ -31,6 +31,10 @@
   regardless of @server, so Cloudflare NS can't be queried directly here.
 - Token expires 2026-10-31.
 
+## Phase 3 status
+- usejiffy.com: NS switched 2026-09-28, zone ACTIVE, all 6 records served from Cloudflare (SOA hans.ns.cloudflare.com).
+  Sandbox proxy blocks curl to the sites; Alexander checks them in a browser.
+
 ## Next (Phase 3)
 - Alexander switches nameservers in Namecheap; poll zone status via API.
 - After each forwarding domain goes Active: Alexander sets up Cloudflare Email Routing.
