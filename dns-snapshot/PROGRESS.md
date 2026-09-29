@@ -42,7 +42,7 @@
   Sandbox proxy blocks curl to the sites; Alexander checks them in a browser.
 
 ## Phase 4 status
-- cathrine.co: transfer submitted in Cloudflare 2026-09-29; awaiting Namecheap approval email.
+- cathrine.co: TRANSFER COMPLETE 2026-09-29 (Cloudflare confirmation email). Zone still active, 7 records intact.
   Other five deferred until closer to renewal.
 
 ## Next (Phase 4)
