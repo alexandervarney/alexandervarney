@@ -43,7 +43,8 @@
 
 ## Phase 4 status
 - cathrine.co: TRANSFER COMPLETE 2026-09-29 (Cloudflare confirmation email). Zone still active, 7 records intact.
-  Other five deferred until closer to renewal.
+- alexandervarney.com: transfer done by Alexander 2026-09-29 (zone active, 8 records intact).
+  Remaining: getdroma.com, usejiffy.com (recommended before 2026-11-01); panka.studio (~Jan–Feb 2027); madplan.xyz (paid to 2028-02-10, no rush).
 
 ## Next (Phase 4)
 - Namecheap auto-renew left ON as fallback.
