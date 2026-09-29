@@ -41,7 +41,11 @@
 - usejiffy.com confirmed loading in browser by Alexander.
   Sandbox proxy blocks curl to the sites; Alexander checks them in a browser.
 
-## Next (Phase 4, deferred by Alexander)
+## Phase 4 status
+- cathrine.co: transfer submitted in Cloudflare 2026-09-29; awaiting Namecheap approval email.
+  Other five deferred until closer to renewal.
+
+## Next (Phase 4)
 - Namecheap auto-renew left ON as fallback; cathrine.co auto-renews 2026-11-19 if not transferred.
 - Phase 4 transfers: start with the three .com (all Active) before 2026-11-01; cathrine.co early (expires 2026-11-19).
   Auth codes go to alexandervarney@gmail.com.
