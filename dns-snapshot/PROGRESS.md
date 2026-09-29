@@ -46,6 +46,6 @@
   Other five deferred until closer to renewal.
 
 ## Next (Phase 4)
-- Namecheap auto-renew left ON as fallback; cathrine.co auto-renews 2026-11-19 if not transferred.
-- Phase 4 transfers: start with the three .com (all Active) before 2026-11-01; cathrine.co early (expires 2026-11-19).
+- Namecheap auto-renew left ON as fallback.
+- Phase 4 transfers: start with the three .com (all Active) before 2026-11-01 (optional; small saving).
   Auth codes go to alexandervarney@gmail.com.
